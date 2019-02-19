@@ -1,1 +1,63 @@
-h1{color: orange;}body{font-family: cursive;background:linear-gradient(to right,yellow,orange);}button{padding: 20px;font-size: 30px;width: 70px;height: 70px;}input{padding: 20px;font-size: 18px;border: 1px solid black;width: 250px;}table{}#wrapper {max-width : 500px;background: linear-gradient(to right,black,cyan);margin: 0 auto;display: block;}
+
+h1{
+	font-family: Times New Roman;
+	color: black;
+	/*display: flex;
+	/*padding: 30px;*/
+}
+
+body{
+	
+	font-family: sans-serif;
+	background:pink;
+	
+}
+
+button{
+	margin: auto;
+	/*padding: 20px;*/
+	font-size: 30px;
+	width: 70px;
+	height: 70px;
+	margin:auto; 
+	/*border: 1px solid red;*/
+}
+
+input{
+
+	font-size: 18px;
+	border: 1px solid black;
+	width: 250px;
+	height: 50px;
+	margin: auto;
+	border-radius:10px;
+	
+}
+table{
+	margin: auto;
+	/*padding: 20px;*/
+
+
+}
+ #wrapper {
+	     width:  350px;
+	     height: 550px;
+	     background: grey;
+	     margin: auto;
+	     border: 2px solid grey;
+	     border-radius: 50px;
+	     text-align: center;
+	     /*display: flex;
+	     flex-wrap: wrap; 
+	     flex-direction: column;
+	     box-shadow: 5px 10px;
+	     justify-content: center;*/
+}
+.bt{/*
+	width: 100%;*/
+	/*display: flex;
+	margin:auto;
+	flex-direction: center;*/
+	text-align: center;
+	margin: auto;
+}
